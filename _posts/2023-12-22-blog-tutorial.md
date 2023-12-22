@@ -1,5 +1,5 @@
 ---
-title: Pages blog Tutorial
+title: First blog
 date: 2023-12-22
 ---
 
